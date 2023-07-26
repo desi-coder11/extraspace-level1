@@ -1,4 +1,4 @@
-#!/bin/bash
+#Find the largest log file in computer (x.log) and truncate it to 100 lines.
 
 
 OLD_IFS=$IFS
